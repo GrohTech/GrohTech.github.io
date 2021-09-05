@@ -70,6 +70,7 @@ header nav ul li a {
 /* About Me styles start */
 .about-me, .work, .contact-me {
     color: #281C15;
+    margin: 20px;
 }
 .about-me {
     display: block;
@@ -80,6 +81,14 @@ header nav ul li a {
 }
 .about-me-flex-1 {
     border-right: 2px solid #281C15;
+    flex-basis: 20%;
+    text-align: right;
+    font-size: 30px;
+    padding: 10px;
+}
+.about-me-flex-2 {
+    flex-basis: 80%;
+    padding: 10px 40px;
 }
 /*About Me styles end*/
 
@@ -94,6 +103,14 @@ header nav ul li a {
 }
 .work-flex-1 {
     border-right: 2px solid #281C15;
+    flex-basis: 20%;
+    text-align: right;
+    font-size: 30px;
+    padding: 10px;
+}
+.work-flex-2 {
+    flex-basis: 80%;
+    padding: 10px 40px;
 }
 /*Work styles end*/
 
@@ -108,5 +125,27 @@ header nav ul li a {
 }
 .contact-me-flex-1 {
     border-right: 2px solid #281C15;
+    flex-basis: 20%;
+    text-align: right;
+    font-size: 30px;
+    padding: 10px;
 }
+.contact-me-flex-2 {
+    flex-basis: 80%;
+    padding: 10px 40px;
+}
+
+.contact-me-flex-2 ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 0;
+    margin-top: 15px;
+}
+.contact-me-flex-2 ul li a {
+    font-size: 20px;
+    padding: 8px 25px;
+    text-decoration: none;
 /*Contact Me styles end*/
