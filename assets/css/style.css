@@ -1,3 +1,4 @@
+/*Global styles end*/
 * {
     margin: 0;
     padding: 0;
@@ -6,18 +7,41 @@
 body {
     display: block;
 }
+/*Global styles end*/
+
+
+/*Header styles start*/
 header {
     background-color: #281C15;
+    color: #FFF8F0;
+    padding: 10px 40px;
     display: flex;
     justify-content: space-between;
-    color: #FFF8F0;
+    flex-wrap: wrap;
+    top: 0;
+    position: sticky;
+    z-index: 9999;
 }
-.nav-list {
+header h1 {
+    margin: 0;
+}
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 0;
+    margin-top: 5px;
+}
+header nav ul li a {
+    font-size: 20px;
+    padding: 8px 25px;
+}
+/*Header styles end*/
 
-}
-.nav-list li {
-    display: inline;
-}
+
+/*Hero styles start*/
 .hero {
     background-image: url(../images/flowers.jpeg);
     background-size: cover;
@@ -39,12 +63,37 @@ header {
     position: absolute;
     border-radius: 5px;
 }
+/*Hero styles end*/
+
+
+/* About Me styles start */
 .about-me {
     display: block;
 }
+.about-me-flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+/*About Me styles end*/
+
+
+/* Work styles start */
 .work {
     display: block;
 }
+.work-flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+/*Work styles end*/
+
+
+/* Contact Me styles start */
 .contact-me {
     display: block;
 }
+.contact-me-flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+/*Contact Me styles end*/
