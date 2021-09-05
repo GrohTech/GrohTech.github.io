@@ -37,6 +37,7 @@ header nav ul {
 header nav ul li a {
     font-size: 20px;
     padding: 8px 25px;
+    text-decoration: none;
 }
 /*Header styles end*/
 
@@ -54,7 +55,7 @@ header nav ul li a {
     font-size: 30px;
     color: #FFF8F0;
     display: block;
-    font-weight: bold;
+    font-weight: normal;
     width: 20%;
     margin: 200px auto 20px 77%;
     background-color: #281C15;
@@ -67,12 +68,18 @@ header nav ul li a {
 
 
 /* About Me styles start */
+.about-me, .work, .contact-me {
+    color: #281C15;
+}
 .about-me {
     display: block;
 }
 .about-me-flex-container {
     display: flex;
     justify-content: space-between;
+}
+.about-me-flex-1 {
+    border-right: 2px solid #281C15;
 }
 /*About Me styles end*/
 
@@ -85,6 +92,9 @@ header nav ul li a {
     display: flex;
     justify-content: space-between;
 }
+.work-flex-1 {
+    border-right: 2px solid #281C15;
+}
 /*Work styles end*/
 
 
@@ -95,5 +105,8 @@ header nav ul li a {
 .contact-me-flex-container {
     display: flex;
     justify-content: space-between;
+}
+.contact-me-flex-1 {
+    border-right: 2px solid #281C15;
 }
 /*Contact Me styles end*/
