@@ -1,0 +1,12 @@
+header {
+    background-color: #36454f;
+    display: flex;
+    justify-content: space-between;
+    color: #BFD7B5;
+}
+.nav-list {
+
+}
+.nav-list li {
+    display: inline;
+}
