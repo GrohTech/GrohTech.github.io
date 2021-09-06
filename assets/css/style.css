@@ -116,30 +116,42 @@ header nav ul li a {
     display: block;
 }
 .project-1{
-
+    margin:0px;
+    padding: 0;
 }
+.project-1 p, .project-2 p, .project-3 p, .project-4 p, .project-5 p{
+    background-color: #281C15;
+    color: #FFF8F0;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+}
+
 .project-2-3 {
     display: flex;
     justify-content: space-between;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .project-2 {
-
 }
+
 .project-3 {
 
 }
+
 .project-4-5 {
     display: flex;
     justify-content: space-between;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .project-4 {
 
 }
+
 .project-5 {
 
 }
+
 /*Work styles end*/
 
 
