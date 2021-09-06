@@ -9,20 +9,25 @@ My portfolio site
 * Updates
 * Maintainers
 
+
 ## INTRODUCTION
 ---------------
 
 This is my professional portfolio site, filled with information about my experience, education, and work history. Users should click all links to find more information.
 
+**View the homepage, here:** [Lauren Groh - Portfolio Website](https://grohtech.github.io/ "Lauren Groh - Portfolio Website")
+
 **View website screenshots, here:**
 ![Lauren Groh - Portfolio Website - 1](./assets/images/lg-portfolio-screenshot-1.png "Lauren Groh - Portfolio Website - 1")
 ![Lauren Groh - Portfolio Website - 2](./assets/images/lg-portfolio-screenshot-2.png "Lauren Groh - Portfolio Website - 2")
+
 
 ## TECHNOLOGIES USED
 --------------------
 
 * HTML
 * CSS
+
 
 ## UPDATES
 ----------
@@ -36,6 +41,7 @@ This is my professional portfolio site, filled with information about my experie
     * Fixed formatting issues
     * Made website responsive using media queries
     
+
 ## MAINTAINERS
 --------------
 **Current Maintainers**
