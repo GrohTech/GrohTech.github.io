@@ -112,6 +112,34 @@ header nav ul li a {
     flex-basis: 80%;
     padding: 10px 40px;
 }
+.project-container {
+    display: block;
+}
+.project-1{
+
+}
+.project-2-3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.project-2 {
+
+}
+.project-3 {
+
+}
+.project-4-5 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.project-4 {
+
+}
+.project-5 {
+
+}
 /*Work styles end*/
 
 
