@@ -33,21 +33,21 @@ This is my professional portfolio site, filled with information about my experie
 ----------
 
 **09.06.21 - Website Created**
-    * Created wireframe outline
-    * Created HTML file
-    * Styled with CSS
-    * Added photos
-    * Added and tested all links
-    * Fixed formatting issues
-    * Made website responsive using media queries
+* Created wireframe outline
+* Created HTML file
+* Styled with CSS
+* Added photos
+* Added and tested all links
+* Fixed formatting issues
+* Made website responsive using media queries
 
 **09.09.21 - Bootcamp Feedback Changes**
-    * Added about me avatar
-    * Organized repo
-    * Added gitignore
-    * Fixed formatting issues
-    * Added additional media query
-    * Screenshots, below:
+* Added about me avatar
+* Organized repo
+* Added gitignore
+* Fixed formatting issues
+* Added additional media query
+* Screenshots, below:
 ![Lauren Groh - Portfolio Website - UPDATE - 1](./assets/images/lg-portfolio-screenshot-update-1.png "Lauren Groh - Portfolio Website - UPDATE - 1")
 ![Lauren Groh - Portfolio Website - UPDATE - 2](./assets/images/lg-portfolio-screenshot-update-2.png "Lauren Groh - Portfolio Website - UPDATE - 2")  
 
