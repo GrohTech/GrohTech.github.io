@@ -118,6 +118,19 @@ header nav ul li a {
 .about-me p:last-child {
     margin:  20px auto auto auto;
 }
+.about-me-flex-2 {
+    display: flex;
+    justify-content: space-around;
+}
+.sub-flex-1 {
+    flex-basis: 35%;
+    
+}
+.sub-flex-2 {
+    flex-basis: 65%;
+    margin-left: 10px;
+}
+
 /*About Me styles end*/
 
 
@@ -205,6 +218,9 @@ header nav ul li a {
     header h1 {
         text-align: center;
     }
+    .about-me-flex-2 {
+        display: block;
+    }
     .contact-me ul {
         display: block;
     }
@@ -241,6 +257,9 @@ header nav ul li a {
     }
     .about-me-flex-2, .work-flex-2, .contact-me-flex-2 {
         padding: 10px;
+    }
+    .work {
+        margin-left: 58px;
     }
 }
   
