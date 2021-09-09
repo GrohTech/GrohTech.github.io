@@ -4,6 +4,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    width: 100%;
+}
 body {
     display: block;
     width: 100%
@@ -149,6 +152,9 @@ header nav ul li a {
     max-width: 1400px;
     width:100%;
 } 
+.project-1 p{
+    max-width: 1400px;
+}
 
 .project-2 img, .project-3 img, .project-4 img, .project-5 img {
     border: 2px solid #281C15;
@@ -205,6 +211,13 @@ header nav ul li a {
 
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (min-width: 1890px) {
+    .project-1 img, .project-1 p {
+        margin-left: 4%;
+    }
+}
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     .hero h2{
     margin: 120px auto 20px 77%;
@@ -214,6 +227,9 @@ header nav ul li a {
     }
     header h1 {
         text-align: center;
+    }
+    .about-me-flex-container, .work-flex-container, .contact-me-flex-container {
+        display: block;
     }
     .contact-me ul {
         display: block;
