@@ -113,22 +113,18 @@ header nav ul li a {
     line-height: 1.5;
 }
 .about-me p:first-child {
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
 }
 .about-me p:last-child {
     margin:  20px auto auto auto;
 }
-.about-me-flex-2 {
-    display: flex;
-    justify-content: space-around;
+.about-me-flex-2{
+    display: inline;
 }
-.sub-flex-1 {
-    flex-basis: 35%;
-    
-}
-.sub-flex-2 {
-    flex-basis: 65%;
-    margin-left: 10px;
+.about-me img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;    
 }
 
 /*About Me styles end*/
@@ -207,6 +203,7 @@ header nav ul li a {
 }
 /*Contact Me styles end*/
 
+
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     .hero h2{
@@ -218,14 +215,17 @@ header nav ul li a {
     header h1 {
         text-align: center;
     }
-    .about-me-flex-2 {
-        display: block;
-    }
     .contact-me ul {
         display: block;
     }
     .contact-me ul li {
         padding: 5px;
+    }
+    .about-me img {
+        float: none;
+    }
+    .about-me-flex-2 {
+        display: block;
     }
 }
   
