@@ -18,8 +18,9 @@ This is my professional portfolio site, filled with information about my experie
 **View the homepage, here:** [Lauren Groh - Portfolio Website](https://grohtech.github.io/ "Lauren Groh - Portfolio Website")
 
 **View website screenshots, here:**
-![Lauren Groh - Portfolio Website - 1](./assets/images/lg-portfolio-screenshot-1.png "Lauren Groh - Portfolio Website - 1")
-![Lauren Groh - Portfolio Website - 2](./assets/images/lg-portfolio-screenshot-2.png "Lauren Groh - Portfolio Website - 2")
+![Lauren Groh - Portfolio Website - UPDATE - 1](./assets/images/update-screenshot-1.png "Lauren Groh - Portfolio Website - UPDATE - 1")
+![Lauren Groh - Portfolio Website - UPDATE - 2](./assets/images/update-screenshot-2.png "Lauren Groh - Portfolio Website - UPDATE - 2")  
+![Lauren Groh - Portfolio Website - UPDATE - 3](./assets/images/update-screenshot-3.png "Lauren Groh - Portfolio Website - UPDATE - 3") 
 
 
 ## TECHNOLOGIES USED
@@ -56,10 +57,6 @@ This is my professional portfolio site, filled with information about my experie
 * Added group project - Work-It-Done
 * Fix image stretching
 * Update responsive design
-* Screenshots, below:
-![Lauren Groh - Portfolio Website - UPDATE - 1](./assets/images/update-screenshot-1.png "Lauren Groh - Portfolio Website - UPDATE - 1")
-![Lauren Groh - Portfolio Website - UPDATE - 2](./assets/images/update-screenshot-2.png "Lauren Groh - Portfolio Website - UPDATE - 2")  
-![Lauren Groh - Portfolio Website - UPDATE - 3](./assets/images/update-screenshot-3.png "Lauren Groh - Portfolio Website - UPDATE - 3") 
 
 ## MAINTAINERS
 --------------
