@@ -89,7 +89,8 @@ header nav ul li a {
 /* Shared Section Styles start */
 .about-me, .work, .contact-me {
     color: #281C15;
-    margin: 20px;
+    margin: 20px 100px;
+
 }
 
 .about-me-flex-container, .work-flex-container, .contact-me-flex-container {
@@ -149,11 +150,11 @@ header nav ul li a {
 }
 .project-1 img {
     border: 2px solid #281C15;
-    max-width: 1400px;
+    max-width: 1000px;
     width:100%;
 } 
 .project-1 p{
-    max-width: 1400px;
+    max-width: 1000px;
 }
 
 .project-2 img, .project-3 img, .project-4 img, .project-5 img {
@@ -166,15 +167,15 @@ header nav ul li a {
     flex-grow: 1;
     flex-basis: 30%;
     flex-shrink: 0;
-    max-width: 700px;
-    min-width: 515px;
+    max-width: 490px;
+    min-width: 400px;
 }
 .project-2, .project-4{
     margin-right: 10px;
 }
 .project-2-3, .project-4-5 {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     flex-wrap: wrap;
     align-items: center;
 }

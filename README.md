@@ -48,8 +48,18 @@ This is my professional portfolio site, filled with information about my experie
 * Fixed formatting issues
 * Added additional media query
 * Screenshots, below:
-![Lauren Groh - Portfolio Website - UPDATE - 1](./assets/images/lg-portfolio-screenshot-update-1.png "Lauren Groh - Portfolio Website - UPDATE - 1")
-![Lauren Groh - Portfolio Website - UPDATE - 2](./assets/images/lg-portfolio-screenshot-update-2.png "Lauren Groh - Portfolio Website - UPDATE - 2")  
+
+**10.20.21**
+* Added group project - Dinner and Drinks
+
+**12.13.21**
+* Added group project - Work-It-Done
+* Fix image stretching
+* Update responsive design
+* Screenshots, below:
+![Lauren Groh - Portfolio Website - UPDATE - 1](./assets/images/update-screenshot-1.png "Lauren Groh - Portfolio Website - UPDATE - 1")
+![Lauren Groh - Portfolio Website - UPDATE - 2](./assets/images/update-screenshot-2.png "Lauren Groh - Portfolio Website - UPDATE - 2")  
+![Lauren Groh - Portfolio Website - UPDATE - 3](./assets/images/update-screenshot-3.png "Lauren Groh - Portfolio Website - UPDATE - 3") 
 
 ## MAINTAINERS
 --------------
